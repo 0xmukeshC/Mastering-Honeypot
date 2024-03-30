@@ -707,7 +707,6 @@ EOD;
   </script>
   <!-- custom js -->
   <script type="text/javascript" src="js/custom.js"></script>
-  <!-- End Google Map -->
 
 </body>
 
