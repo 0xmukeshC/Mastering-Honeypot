@@ -1,2 +1,2 @@
-# Mastering Honeypot
- Mastering Honeypot, by BPB Publications
+# Mastering Honeypots
+ Mastering Honeypots, by BPB Publications
