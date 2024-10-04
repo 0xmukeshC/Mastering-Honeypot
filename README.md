@@ -1,6 +1,6 @@
 # Mastering Honeypots
 
-Art of deception for cybersecurity defense .
+Art of deception for cybersecurity defense.
 
 This is the repository for [Mastering Honeypots
 ](https://bpbonline.com/products/mastering-honeypots?variant=44147363807432),published by BPB Publications.
